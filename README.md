@@ -13,7 +13,25 @@ Este proyecto consiste en el diseño y desarrollo de un sistema de soporte para 
 - Aplicar el paradigma 4+1 en la vista lógica, vista de implementación, vista de despliegue, y vista de procesos.
 - Crear una interfaz gráfica moderna y acorde a los estándares establecidos, considerando las necesidades del cliente.
 
-## Características
+## Aplicación
+La aplicación "HelpDesk Telecom" está diseñada como un sistema integral de gestión de tickets para una empresa de telefonía. Proporciona una interfaz intuitiva y eficiente para manejar solicitudes de soporte y gestión de incidentes. A continuación, se destacan sus principales características y funcionalidades:
+
+- **Sistema de Tickets:** Permite a los usuarios crear, visualizar, modificar y eliminar tickets de soporte. Cada ticket tiene un estado que refleja su progreso, desde la creación hasta la resolución.
+- **Asignación Dinámica:** Los tickets pueden ser asignados automáticamente a los agentes de soporte basados en su disponibilidad, o manualmente por un administrador o supervisor.
+- **Gestión de Roles:** La aplicación cuenta con diferentes niveles de acceso, lo que permite que ciertas funciones estén disponibles solo para roles específicos, como administradores, agentes de soporte o usuarios finales.
+- **Interfaz de Usuario Amigable:** Diseñada para ser intuitiva, la interfaz facilita la navegación y el uso del sistema sin requerir una curva de aprendizaje empinada.
+- **Notificaciones:** Los usuarios reciben notificaciones en tiempo real cuando se actualiza el estado de sus tickets o cuando se les asigna una nueva tarea.
+- **Historial de Tickets:** Todos los tickets tienen un historial detallado de todas las acciones realizadas, lo que permite una trazabilidad completa y la posibilidad de auditoría.
+- **Búsqueda y Filtros:** Los usuarios pueden buscar tickets específicos y aplicar diferentes filtros para organizar y priorizar su carga de trabajo.
+- **Interacción con el Cliente:** La plataforma facilita la comunicación entre el agente de soporte y el cliente, proporcionando herramientas para enviar actualizaciones, solicitar más información o resolver dudas.
+
+
+![App](https://github.com/KatzeeDev/helpdesk-telecom/blob/main/docs/resources/telecomapp.gif)
+
+
+
+
+## Características del proyecto
 
 1. **Levantamiento de Requerimientos:** Utilización de encuestas, entrevistas, y otros métodos para una recopilación precisa de las necesidades del cliente.
 2. **Planificación de Sprint:** Definición detallada de tiempos y personal para cada fase del proyecto.
